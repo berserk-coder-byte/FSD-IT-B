@@ -1,0 +1,37 @@
+section{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(136, 0, 255);
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+
+}
+.box{
+    background-color: blanchedalmond;
+    width: 35%;
+    /* text-align: center; */
+}
+.box h2{
+    text-align: center;
+
+}
+.box label{
+    padding: 5px;
+    margin:10px
+}
+.box input{
+    padding: 5px;
+    margin:10px;
+    /* width: 85%we; */
+}
+.box textarea{
+    padding: 5px;
+    margin:10px;
+    width: 85%;
+}
+.box select{
+    padding: 5px;
+    margin:10px;
+    width: 85%;
+}

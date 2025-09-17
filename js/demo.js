@@ -26,4 +26,4 @@
 // 3.Anonymous Function
 // 4.Callback Function:-using this we can pass the function as a parameter to another function.
 // 5.IIFE Function
-// 
+
