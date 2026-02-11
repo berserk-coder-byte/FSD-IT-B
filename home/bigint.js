@@ -1,0 +1,1 @@
+console.log( typeof(9999999999999999n + 10n ));
